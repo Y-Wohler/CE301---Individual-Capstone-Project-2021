@@ -16,11 +16,19 @@ I have some expectations on my project which I will change after finishing the c
 Before courses expectations and requirements:
 
 Minimum Requirements:
+
 •Suitable and human-readable GUI with the basics; Buttons to navigate through the game i.e., Play Button, Quit Button, High-Scores, etc.
+
 •A character which the user controls by touching the screen.
+
 •Some sort of Score system to keep track of the users score.
+
 Not essential requirements:
+
 •Comparing scores to other users, i.e., worldwide high scores.
+
 •Designs, different colour schemes and designs for the character and backgrounds.
+
 •Easy to play, maybe a tutorial if it isn’t self-explanatory.
+
 I will update these requirements each time, I find something interesting to implement or a must needed requirements so the users can enjoy playing the game. I will update Jira on each interface and state I am at.
