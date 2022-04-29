@@ -32,3 +32,8 @@ Not essential requirements:
 •Easy to play, maybe a tutorial if it isn’t self-explanatory.
 
 I will update these requirements each time, I find something interesting to implement or a must needed requirements so the users can enjoy playing the game. I will update Jira on each interface and state I am at.
+
+
+HOW TO RUN
+OPEN AND RUN MAINACTIVITY AFTER SETTING UP ANDROID APK
+
