@@ -35,6 +35,9 @@ I will update these requirements each time, I find something interesting to impl
 
 
 HOW TO RUN
+Folder: Code and Res have the resources and code only, may not work wihtout being in the same folders as created in.
+The Dodgers are the main folder with all the code and resources in the same format as it was created.
+
 DOWNLOAD ALL FILES AND FOLDERS, 
 OPEN AND RUN MAINACTIVITY AFTER SETTING UP ANDROID APK,
 
